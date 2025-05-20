@@ -45,7 +45,7 @@ We’re students, developers, and dreamers from different backgrounds — united
 > Meet the team behind the bugs:
 - [Sangam Adhikari](https://github.com/sawongam)
 - Sandesh Chapagai
-- Shishir Adhikari
+- [Shishir Adhikari](https://github.com/adkshishir)
 
 ---
 
